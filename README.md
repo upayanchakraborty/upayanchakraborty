@@ -6,13 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upayanchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="upayanchakraborty" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science using Python**
+- I’m currently learning **Machine Learning and Data Science using Python**
 
-- 💬 Ask me about **Python, C, SQL, Java**
+- Ask me about **Python, C, SQL, Java**
 
 - 📫 How to reach me **upayanchakra@gmail.com**
 
-- ⚡ Fun fact **I like to play different kinds of musical instruments**
+- Fun fact **I like to play different kinds of musical instruments**
+
+- Check-out my website: [Upayan Website](https://upayanchakraborty.netlify.app/)
 
 <h3 align="left">Connect with me through my portfolio:</h3>
 <p align="left">
