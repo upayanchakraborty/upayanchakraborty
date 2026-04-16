@@ -14,11 +14,10 @@
 
 - Fun fact **I like to play different kinds of musical instruments**
 
-- Check-out my website: [Upayan Website](https://upayanchakraborty.netlify.app/)
 
 <h3 align="left">Connect with me through my portfolio:</h3>
 <p align="left">
-<a href="https://portfolio0fuayanchakraborty.netlify.app/" target="blank"><img align="center" src="https://github.com/upayanchakraborty/upayanchakraborty/blob/main/netlify-logo-png-transparent.png" alt="Upayan Chakraborty portfolio" height="30" width="40" /></a>
+<a href="https://upayanchakraborty.netlify.app/" target="blank"><img align="center" src="https://github.com/upayanchakraborty/upayanchakraborty/blob/main/netlify-logo-png-transparent.png" alt="Upayan Chakraborty portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
