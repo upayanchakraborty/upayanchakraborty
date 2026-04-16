@@ -82,6 +82,6 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
 
 </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upayanchakraborty&" alt="upayanchakraborty" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=upayanchakraborty&theme=tokyonight" alt="upayanchakraborty" />
+</p>
