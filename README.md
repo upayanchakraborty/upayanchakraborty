@@ -1,5 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://upayanchakrabortyd.wixsite.com/my-site-3)
-<h1 align="center">Hello there 👋, I'm Upayan Chakraborty</h1>
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://upayanchakraborty.netlify.app/)
+<h1 align="center">Hello there 
+  <img src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif" width="40" style="vertical-align: middle;" />
+  I'm Upayan Chakraborty</h1>
 <h3 align="center">An enthusiastic learner and coder</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
